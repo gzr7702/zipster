@@ -1,0 +1,12 @@
+A simple zip utility, written in Python, that will zip a directory. The full path of the directory is passed to the function and a
+zip file is is created with the top directory.
+
+- ziprelative.py, test_ziprelative.py
+
+- Uses Python version 3.2, but should work with older versions.
+
+- A handy test case has been included. Remember to run this first when you add new features!
+
+- You will need to change the test path in test_ziprelative.py to match wherever you are testing from.
+
+- Created by Rob Graziano
