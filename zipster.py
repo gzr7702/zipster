@@ -4,11 +4,10 @@ It takes one argument: the path to the folder that you want to zip.
 import zipfile
 import glob
 import os
-import sys
 import argparse
 import logging
 
-def main(args):
+def zipster(args):
     new_path, fn_base = os.path.split(args.source)
     print("base", fn_base)
     fn = fn_base + ".zip"
@@ -25,4 +24,4 @@ if __name__ == "__main__":
     parser.add_argument("-s", "--source", metavar="P", help="The source directory that you would like zipped.")
     
     args = parser.parse_args()
-    main(args)
+    zipster(args)
