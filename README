@@ -7,6 +7,6 @@ zip file is is created with the top directory.
 
 - A handy test case has been included. Remember to run this first when you add new features!
 
-- You will need to change the test path in test_ziprelative.py to match wherever you are testing from.
-
 - Created by Rob Graziano
+
+- This commit: cleaned up code, changed to argparse, cleaned up test case to call app directly.
