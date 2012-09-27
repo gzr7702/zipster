@@ -1,7 +1,11 @@
 A simple zip utility, written in Python, that will zip a directory. The full path of the directory is passed to the function and a
 zip file is is created with the top directory.
 
-- ziprelative.py, test_ziprelative.py
+- Usage:
+   zipster -s <source dir> -d <dest dir> 
+   source directory is not optional. Destination directory is optional.
+
+- files: ziprelative.py, test_ziprelative.py
 
 - Uses Python version 3.2, but should work with older versions.
 
@@ -9,4 +13,3 @@ zip file is is created with the top directory.
 
 - Created by Rob Graziano
 
-- This commit: cleaned up code, changed to argparse, cleaned up test case to call app directly.

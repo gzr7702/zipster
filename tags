@@ -1,0 +1,2 @@
+mkdir	test_zipster.py	/^        os.mkdir(self.test_dir)$/
+split	zipster.py	/^    new_path, fn_base = os.path.split(args.source)/

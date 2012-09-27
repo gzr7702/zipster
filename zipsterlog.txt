@@ -1,0 +1,33 @@
+2012-09-27 19:10:22,289 - INFO - zipster - Zipping file zip_test
+2012-09-27 19:10:22,290 - INFO - zipster - Adding file zip_test/file1 to archive zip_test
+2012-09-27 19:10:22,290 - INFO - zipster - Adding file zip_test/file2 to archive zip_test
+2012-09-27 19:10:22,290 - INFO - zipster - Adding file zip_test/file3 to archive zip_test
+2012-09-27 19:10:22,291 - INFO - zipster - moving file zip_test.zip to archive/zip_test.zip
+2012-09-27 19:10:22,291 - INFO - zipster - Done!
+2012-09-27 19:10:22,378 - INFO - zipster - Zipping file zip_test
+2012-09-27 19:10:22,378 - INFO - zipster - Adding file zip_test/file1 to archive zip_test
+2012-09-27 19:10:22,379 - INFO - zipster - Adding file zip_test/file2 to archive zip_test
+2012-09-27 19:10:22,379 - INFO - zipster - Adding file zip_test/file3 to archive zip_test
+2012-09-27 19:10:22,379 - INFO - zipster - Done!
+2012-09-27 19:10:40,663 - INFO - zipster - Zipping file zip_test
+2012-09-27 19:10:40,664 - INFO - zipster - Adding file zip_test/file1 to archive zip_test
+2012-09-27 19:10:40,664 - INFO - zipster - Adding file zip_test/file2 to archive zip_test
+2012-09-27 19:10:40,665 - INFO - zipster - Adding file zip_test/file3 to archive zip_test
+2012-09-27 19:10:40,665 - INFO - zipster - moving file zip_test.zip to archive/zip_test.zip
+2012-09-27 19:10:40,665 - INFO - zipster - Done!
+2012-09-27 19:10:40,744 - INFO - zipster - Zipping file zip_test
+2012-09-27 19:10:40,745 - INFO - zipster - Adding file zip_test/file1 to archive zip_test
+2012-09-27 19:10:40,745 - INFO - zipster - Adding file zip_test/file2 to archive zip_test
+2012-09-27 19:10:40,745 - INFO - zipster - Adding file zip_test/file3 to archive zip_test
+2012-09-27 19:10:40,746 - INFO - zipster - Done!
+2012-09-27 19:11:39,397 - INFO - zipster - Zipping file zip_test
+2012-09-27 19:11:39,398 - INFO - zipster - Adding file zip_test/file1 to archive zip_test
+2012-09-27 19:11:39,398 - INFO - zipster - Adding file zip_test/file2 to archive zip_test
+2012-09-27 19:11:39,398 - INFO - zipster - Adding file zip_test/file3 to archive zip_test
+2012-09-27 19:11:39,399 - INFO - zipster - moving file zip_test.zip to archive/zip_test.zip
+2012-09-27 19:11:39,399 - INFO - zipster - Done!
+2012-09-27 19:11:39,484 - INFO - zipster - Zipping file zip_test
+2012-09-27 19:11:39,485 - INFO - zipster - Adding file zip_test/file1 to archive zip_test
+2012-09-27 19:11:39,485 - INFO - zipster - Adding file zip_test/file2 to archive zip_test
+2012-09-27 19:11:39,485 - INFO - zipster - Adding file zip_test/file3 to archive zip_test
+2012-09-27 19:11:39,486 - INFO - zipster - Done!
