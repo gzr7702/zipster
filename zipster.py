@@ -19,17 +19,20 @@ def zipster(args):
         logging.error("Directory %s does not exist" % fn_base)
         exit(1)
 
+    #gather info on zip file name and files to archive
     logging.info("Zipping file " + fn_base)
     fn = fn_base + ".zip"
     files_to_archive = glob.glob(os.path.join(fn_base, "*"))
     zf = zipfile.ZipFile(fn, "w", zipfile.ZIP_DEFLATED)
-    
+
+    #here's where all the magic happens
     for fn_to_archive in files_to_archive:
         logging.info("Adding file " + fn_to_archive + " to archive " + fn_base)
         if os.path.isfile(fn):
             zf.write(fn_to_archive)
     zf.close()
             
+    #if there's a dest dir specified, try to move the zip file to it
     if args.dest:
         if not os.path.exists(args.dest):
             print("Directory %s does not exist. Leaving zip file where it is." % fn_base)
